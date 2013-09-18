@@ -1,6 +1,8 @@
 Random Bullshit Generator API
 =============================
 
+Python web API based on the [Web Economy Bullshit Generator](http://www.dack.com/web/bullshit.html).
+
 Instructions:
 
 1. Clone repository
